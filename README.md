@@ -4,8 +4,8 @@ Prof. Brinkmeier
 2019 
 University Osnabrück
 
-# Author 
+## Author 
 Lisa Golla 
 
-# Structure 
+## Structure 
 Based on the main topics of the course the exercises concern search algorithms, basic concepts like writing functions, global, local variables,... etc. 
